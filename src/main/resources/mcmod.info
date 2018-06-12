@@ -1,0 +1,16 @@
+[
+{
+  "modid": "kcoin",
+  "name": "K Coin",
+  "description": "Economy mod based on using power to create currency.",
+  "version": "1.0",
+  "mcversion": "$1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["FallenRecruit"],
+  "credits": "Ausaima for general help \n Kaizy for Graphics",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
