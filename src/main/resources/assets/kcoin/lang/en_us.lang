@@ -1,1 +1,8 @@
+//Items
 item.kphone.name=KPhone
+item.creativekphone.name=Creative KPhone
+
+//Blocks
+tile.basic_miner_tier1_block.name=Basic Miner T1
+tile.basic_miner_tier2_block.name=Basic Miner T2
+tile.basic_miner_tier3_block.name=Basic Miner T3

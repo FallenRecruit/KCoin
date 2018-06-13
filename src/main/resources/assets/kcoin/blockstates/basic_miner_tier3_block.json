@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "kcoin:basic_miner_tier3_block" }
+    }
+}

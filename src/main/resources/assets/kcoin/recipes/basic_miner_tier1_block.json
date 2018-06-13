@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#S#",
+        "CCC",
+        "#R#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:iron_block"
+        },
+        "S": {
+            "item": "minecraft:stone_button"
+        },
+        
+        "C": {
+            "item": "minecraft:comparator"
+        },
+        
+        "R": {
+            "item": "minecraft:redstone_torch"
+        }
+    },
+    "result": {
+        "item": "kcoin:basic_miner_tier1_block",
+        "count": 1
+    }
+}

@@ -12,5 +12,6 @@ public class ModItems {
 	public static final List<Item> ITEMS = new ArrayList<Item>();
 	
 	public static final Item KPHONE = new ItemBase("kphone");
+	public static final Item CREATIVEKPHONE = new ItemBase("creativekphone");
 	
 }

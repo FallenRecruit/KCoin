@@ -1,0 +1,6 @@
+{
+   "parent": "block/cube_all",
+   "textures": {
+       "all": "kcoin:blocks/basic_miner_tier2_block"
+   }
+}
